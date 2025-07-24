@@ -16,7 +16,8 @@
 Сервер запускается на порту `8080`.
 
 ```bash
-go run ./cmd/server/main.go
+cd 2025-07-24
+go run /cmd/server/main.go
 ```
 
 ## Конфигурация
