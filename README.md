@@ -16,6 +16,7 @@
 Сервер запускается на порту `8080`.
 
 ```bash
+git clone https://github.com/COMF2222/2025-07-24
 cd 2025-07-24
 go run ./cmd/server/main.go
 ```
