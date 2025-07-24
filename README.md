@@ -20,7 +20,7 @@ go run ./cmd/server/main.go
 ```
 
 ## Конфигурация
-Конфигурация задаётся через файл `config.json` (необязательно). Пример:
+Конфигурация задаётся через файл `config.json`. Пример:
 
 ```json
 {
@@ -120,4 +120,4 @@ curl -OutFile archive.zip http://localhost:8080/archives/{id}
 
 Файл сохранится по пути C:\Users\username
 
-Если же зайти в браузере по ссылке http://localhost:8080/archives/{id} то сохранится в загрузки
+Если же зайти в браузере по ссылке `http://localhost:8080/archives/{id}` то сохранится в загрузки
