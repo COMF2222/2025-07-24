@@ -1,0 +1,6 @@
+{
+  "port": "8080",
+  "allowed_extensions": [".pdf", ".jpeg"],
+  "max_tasks": 3,
+  "max_files_per_task": 3
+}
