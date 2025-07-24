@@ -17,7 +17,7 @@
 
 ```bash
 cd 2025-07-24
-go run /cmd/server/main.go
+go run ./cmd/server/main.go
 ```
 
 ## Конфигурация
